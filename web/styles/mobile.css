@@ -1,0 +1,9 @@
+@media(max-width: 600px) {
+  #form > input{
+    width: 250px;
+  }
+
+  #app >p {
+    width: 340px;
+  }
+}
